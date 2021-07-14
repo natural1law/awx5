@@ -1,0 +1,3 @@
+rootProject.name = "awx5"
+include ':app'
+include ':agentwebX5'
